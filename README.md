@@ -1,4 +1,5 @@
 # 360-Viewer
 
-![]https://user-images.githubusercontent.com/69415437/204125560-258ca8f1-46b8-44a7-802a-2e427a77f9b9.mp4
+![3dmodel](https://user-images.githubusercontent.com/69415437/204125597-6e719176-74c5-432a-9f44-05650f6a9923.gif)
+
 
